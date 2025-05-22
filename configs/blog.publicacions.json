@@ -1,0 +1,57 @@
+[{
+  "_id": {
+    "$oid": "682e434611e97d0cee2bfe30"
+  },
+  "titulo": "Nose",
+  "descripcion": "nose hagan su tarea",
+  "curso": "Tecno",
+  "status": true,
+  "comentarios": [],
+  "fecha": {
+    "$date": "2025-05-21T21:19:02.845Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T21:19:02.853Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T21:19:02.853Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682e436b11e97d0cee2bfe34"
+  },
+  "titulo": "blog",
+  "descripcion": "entregenla vivan los rojos",
+  "curso": "practicasupervisad",
+  "status": true,
+  "comentarios": [],
+  "fecha": {
+    "$date": "2025-05-21T21:19:39.156Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T21:19:39.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T21:19:39.157Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682e44a0cb2f8c7acb7672f8"
+  },
+  "titulo": "queteimportaa",
+  "descripcion": "entregenla vivan los rojos",
+  "curso": "taller",
+  "status": true,
+  "comentarios": [],
+  "fecha": {
+    "$date": "2025-05-21T21:24:48.370Z"
+  },
+  "createdAt": {
+    "$date": "2025-05-21T21:24:48.379Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-21T21:24:53.873Z"
+  }
+}]
